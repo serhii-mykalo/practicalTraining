@@ -16,6 +16,14 @@ public class Main {
             System.out.println(element);
         }
 
+        System.out.println("list.remove(3) = " + list.remove(3));
+
+//      String remove = list.remove(1);
+//      System.out.println("remove = " + remove);
+
+//        list.clear();
+//        System.out.println("list.get(0) = " + list.get(0));
+
         list.add(1, "Fifth");
         System.out.println("------------");
         for (String element : list) {
