@@ -3,7 +3,7 @@ package ua.swing.swingVideoPractice;
 import javax.swing.*;
 import java.awt.*;
 
-public class Main {
+public class Swing1HelloWorld {
     public static void main(String[] args) {
         //Створюємо вікно
         JFrame jFrame = new JFrame(){};

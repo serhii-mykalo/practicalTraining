@@ -9,7 +9,7 @@ import java.awt.geom.Rectangle2D;
 import java.net.MalformedURLException;
 import java.net.URL;
 
-public class Lesson {
+public class Swing2JComponent {
     public static void main(String[] args) {
         JFrame jFrame = getFrame();
         jFrame.add(new MyComponent());
