@@ -1,6 +1,7 @@
 package ua.goit.module5.oop;
 
 public class SearchUtil {
+
     public int findToElement(int[] inputData, int elementToSearch) {
         int lowIndex = 0;
         int highIndex = inputData.length - 1;
