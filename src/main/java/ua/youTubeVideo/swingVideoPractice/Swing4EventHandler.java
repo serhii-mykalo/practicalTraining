@@ -1,8 +1,7 @@
-package ua.swing.swingVideoPractice;
+package ua.youTubeVideo.swingVideoPractice;
 
 import javax.swing.*;
 import java.awt.*;
-import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 import java.beans.EventHandler;
 

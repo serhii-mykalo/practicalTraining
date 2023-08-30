@@ -1,4 +1,4 @@
-package ua.swing.swingVideoPractice;
+package ua.youTubeVideo.swingVideoPractice;
 
 import javax.swing.*;
 import java.awt.*;
